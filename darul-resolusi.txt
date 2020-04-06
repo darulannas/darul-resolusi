@@ -2,4 +2,4 @@ DARUL RESOLUSI
 - Pelajari Git dan Github sampai tuntas lalu implementasikan
 - Pelajari web programming untuk menjadi full stack developer dari roadmap yang ada
 - Dimulai dari front-end developer, back-end developer, devops
-- Di front-end mulai pelajari html
+- Di front-end lanjut css
